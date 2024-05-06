@@ -20,9 +20,6 @@ menu:
         - name: Data
           url: data/
           weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
 
 params:
     description: "I am a first year Phd student at Rice University."
@@ -50,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Zhan Shi
-          subtitle: "Hello, my name is Zhan Shi, an incomming first year computer science Phd student at Rice University. I have recently graduated from University of Michigan with my M.S. in Computer Science. I also gained my B.S. degree in Computer Science and Mathematical Sciences (Algorithmic Methods Track) at Michigan as well. I will be following with professor Maryam Aliakbarpour in research of staistical machine learning, differential privacy and big-data algorithms." 
+          subtitle: "Hello, my name is Zhan Shi, an incomming first year computer science Phd student at Rice University. I have recently graduated from University of Michigan with my M.S. in Computer Science. I also gained my B.S. degree in Computer Science and Mathematical Sciences (Algorithmic Methods Track) at Michigan. I will follow professor Maryam Aliakbarpour in field of staistical machine learning, differential privacy and big-data algorithms." 
           imageUrl: "profile.png"
           imageWidth: 160
           imageHeight: 160
@@ -62,8 +59,6 @@ params:
               url: courses/
             - name: Data
               url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
             - name: Tags
               url: tags/
             - name: Archive
@@ -72,7 +67,7 @@ params:
         - name: CV
           url: Zhan_Shi_s_CV_website.pdf
         - name: Email
-          url: zs50@rice.edu
+          url: mailto:zs50@rice.edu
         - name: Location
           url: location/
         - name: Office Hours
@@ -83,8 +78,6 @@ params:
           url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
         - name: Twitter
           url: https://twitter.com/pmichaillat
 

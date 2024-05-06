@@ -9,10 +9,11 @@ description: "Mailing and office addresses at the University of Place."
 
 #### Mailing address
 
-Department of Subject
-University of Place
-Street
-City, State, Zip
+Department of Computer Science \
+Rice University \
+6100 Main Street \
+Duncan Hall 3122 \ 
+Houston, TX 77005-1892
 
 ---
 
@@ -26,6 +27,6 @@ University of Place
 
 #### Office location
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d203668.66166295038!2d-122.06180807362631!3d37.09743194165668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e4174e5b57475%3A0x97880f47ac591627!2sDepartment%20of%20Economics!5e0!3m2!1sen!2sus!4v1686026390720!5m2!1sen!2sus" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/place/Duncan+Hall/@29.7185258,-95.403202,17z/data=!4m10!1m2!2m1!1sDepartment+of+Computer+Science+Rice+University+6100+Main+Street+Duncan+Hall+3122+Houston,+TX+77005-1892!3m6!1s0x8640c07ea908bc75:0x1cccdf7e41bbd95e!8m2!3d29.7204417!4d-95.3986348!15sCmdEZXBhcnRtZW50IG9mIENvbXB1dGVyIFNjaWVuY2UgUmljZSBVbml2ZXJzaXR5IDYxMDAgTWFpbiBTdHJlZXQgRHVuY2FuIEhhbGwgMzEyMiBIb3VzdG9uLCBUWCA3NzAwNS0xODkykgEVdW5pdmVyc2l0eV9kZXBhcnRtZW504AEA!16s%2Fg%2F1q5btlbx3?entry=ttu" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
