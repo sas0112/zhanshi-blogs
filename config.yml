@@ -70,7 +70,7 @@ params:
               url: archive/
     socialIcons:
         - name: CV
-          url: static/Zhan_Shi_s_CV_website.pdf
+          url: Zhan_Shi_s_CV_website.pdf
         - name: Email
           url: zs50@rice.edu
         - name: Location
