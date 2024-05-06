@@ -95,7 +95,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Zhan Shi"
       icon: favicon.ico
       iconHeight: 18
 
