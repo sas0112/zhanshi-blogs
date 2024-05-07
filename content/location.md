@@ -12,7 +12,7 @@ description: "Mailing and office addresses at the University of Place."
 Department of Computer Science \
 Rice University \
 6100 Main Street \
-Duncan Hall 3122 \ 
+Duncan Hall 3122 \
 Houston, TX 77005-1892
 
 ---
